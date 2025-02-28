@@ -1,0 +1,5 @@
+com\mycompany\compendio2\Modelo\Producto.class
+com\mycompany\compendio2\Vista\FormProducto.class
+com\mycompany\compendio2\Controlador\ImplementsProducto.class
+com\mycompany\compendio2\Compendio2.class
+com\mycompany\compendio2\Controlador\IProducto.class

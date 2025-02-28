@@ -1,0 +1,13 @@
+com\mycompany\compendioejericios\Modelo\Libro.class
+com\mycompany\compendioejericios\Vista\FormularioLibro.class
+com\mycompany\compendioejericios\Modelo\Ejercicio2\NumeroIngreso.class
+com\mycompany\compendioejericios\VistaEjer4\FormEstudiantes$2.class
+com\mycompany\compendioejericios\VistaEjer4\FormEstudiantes$1.class
+com\mycompany\compendioejericios\VistaEjer4\FormEstudiantes.class
+com\mycompany\compendioejericios\Controlador\ImplementsLibro.class
+com\mycompany\compendioejericios\Controlador\Ejercicio2\INumeroIngreso.class
+com\mycompany\compendioejericios\Vista\Ejercicio3\FormIngresoNombres.class
+com\mycompany\compendioejericios\Controlador\Ejercicio2\ImplementsNumeroIngreso.class
+com\mycompany\compendioejericios\ModeloEjer4\Estudiante.class
+com\mycompany\compendioejericios\Controlador\ILibro.class
+com\mycompany\compendioejericios\CompendioEjericios.class
